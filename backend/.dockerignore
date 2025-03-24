@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-venv/
-.git
-.gitignore
-.gitmodules
-.cache
-.pytest_cache
